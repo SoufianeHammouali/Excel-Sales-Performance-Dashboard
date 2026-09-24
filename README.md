@@ -54,3 +54,6 @@ Excel · Nettoyage de données · Formules · Tableaux croisés dynamiques · Gr
 - `Excel_Sales_Performance_Dashboard.png` : capture d'écran du tableau de bord final.
 
 > Pour utiliser les segments et les graphiques interactifs, ouvrir le classeur dans Microsoft Excel. La capture d'écran permet de consulter le tableau de bord directement sur GitHub.
+> ## Aperçu du tableau de bord
+
+![Tableau de bord Excel des performances commerciales](Excel_Sales_Performance_Dashboard.png)
